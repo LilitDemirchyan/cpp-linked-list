@@ -48,8 +48,6 @@ public:
     bool find(const_reference value) const;
     Node* search(size_t index) const;
 
-//     // Display
-//     void print() const;
 
     //element accses
     reference front();
